@@ -1,0 +1,13 @@
+{ 
+
+  "Name": "DeepMReye",
+  "BIDSVersion": "1.0.3",
+  "DatasetDOI": "/data/xnat/archive/DeepMReye", 
+  "Authors": [
+  	"Sina Kling", 
+  	"Uriel Lascombes", 
+  	"Matthias Nau", 
+  	"Guillaume Masson", 
+  	"Martin Szinte"
+  ]}
+
