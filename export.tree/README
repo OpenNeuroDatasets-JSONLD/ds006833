@@ -1,7 +1,0 @@
-deepmreye
----------
-
-Set of experiments to calibrate deepmreye fpr eyes open and eyes closed decoding.
-
-deepmreyecalib: set of calibration tasks (fixation, pursuit, freeviewing) for eyes open decoding
-deepmreyeclosed: set of fixation tasks with multiple eyes closed periods
